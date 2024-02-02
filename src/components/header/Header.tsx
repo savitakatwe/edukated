@@ -11,7 +11,6 @@ const StyledDiv = styled.div`
   align-items: center;
   justify-content: space-between;
   margin: 20px;
-  width: 50%;
   height: 20px;
 `;
 
